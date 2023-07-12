@@ -14,3 +14,9 @@ Também gosto bastante de estudar outros idiomas e foi assim que consegui ser **
 
 Aqui compartilho meus estudos e análises realizadas.
 
+
+Mais informações podem ser encontradas em meu Linkedin:
+
+<a href="https://linkedin.com/in/bredariolcaroline">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
